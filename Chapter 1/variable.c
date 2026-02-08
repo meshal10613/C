@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
-{	
-	int a;
-	a = 10;
-	printf("Hello Wrold! %d", a);
+{
+	int a; // variable declaration
+	a = 10; // variable initialization
+	printf("The output is %d", a);
 	return 0;
 }
